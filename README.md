@@ -35,7 +35,7 @@ The following information describes the folders found in the root directory of t
 
 # Requirements
 ## Build Environment
-Currently, Solidworks is used to model the individual components. All native files are 
+Currently, Solidworks is used to model the individual components. All native files are native to solidworks design studio (SLDPRT and SLDASM). Future revisions and releases will include additional formatted exports, as well as notated drawings to aid others in contributing.
 
 # Methodology
 ## Key Considerations and Constraints
