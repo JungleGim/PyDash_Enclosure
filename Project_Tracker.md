@@ -11,9 +11,6 @@ Build Date: 03/07/2026
 	- this should be a captive recess, which does not extend to the outer mating surface of the bosses
 	- inserts will be wedged between the back of the enclosure and the outer mating surface of the boss once glued in place
 	- this will be better for long-term use than thread-forming screws into the printed material
-* Adjust USBC placement
-	- USBC jack seems too close to the mounting bosses, move more "outbound" on the PCB
-	- Update enclosure back after changing
 
 * Final Testing
     - finalize PCB design and adjust as needed for fitment
