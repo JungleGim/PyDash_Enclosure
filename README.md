@@ -16,10 +16,6 @@ The PyDash enclosure is designed to keep the PyDash PCB in place and provide a m
     - Alpha testing initial files and fitment
 	- Intended for use with PyDash Rev2.0
     - See Project_Tracker.md for current working notes/issues that are WIP
-	
-## Future Development
-* Complete documentation for printing and assembly, including a BOM
-* Export files in different formats
 
 ## Repository Directory Map
 The following information describes the folders found in the root directory of this repository
